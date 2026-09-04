@@ -6,7 +6,7 @@ public class AreaPerimetroFiguras {
         double base = sc.nextDouble();
         System.out.println("la altura del rectangulo:");
         double altura = sc.nextDouble();
-        System.out.println("dam el radio del a circunferencia:");
+        System.out.println("dame el radio de la circunferencia:");
         double radio = sc.nextDouble();
 
         double areaRectangulo = base * altura;

@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.math.*;
 
 public class ConversiónTemperatura {
     public static void main(String[] args) throws Exception {
