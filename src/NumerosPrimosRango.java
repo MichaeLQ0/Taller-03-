@@ -39,5 +39,6 @@ public class NumerosPrimosRango {
         System.out.println("Cantidad de números primos encontrados: " + cantidad);
         System.out.println("Suma de los números primos encontrados: " + suma);
         System.out.println(Arrays.toString(listaPrimos));
+        sc.close();
     }
 }
